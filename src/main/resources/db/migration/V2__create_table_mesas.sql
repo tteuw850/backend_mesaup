@@ -1,0 +1,5 @@
+CREATE TABLE tb_mesa (
+    id BIGSERIAL PRIMARY KEY,
+    numero INTEGER NOT NULL UNIQUE,
+    status VARCHAR(20) NOT NULL
+);
