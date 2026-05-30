@@ -1,4 +1,4 @@
-# Gym Control
+# Mesaup
 
 Este projeto consiste no **BackEnd** de  **Controle de comandas**. A aplicação foi construída utilizando **Java** com o framework **Spring Boot** e o banco de dados relacional **PostregSQL** e com o versionamento do banco de dados utilizando o **FLYWAY**, com a conteinerização com docker com foco na facilidade de utilização do usuário.
 > Projeto acadêmico construído para demonstrar competências e boas práticas de back-end aplicadas a um cenário de mercado.
