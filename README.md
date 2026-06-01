@@ -50,3 +50,10 @@ src/main/java/Mesaup.controll
         ├──  V6__insert_dados.sql               
     
 ```
+
+## Como executar o projeto
+
+1. Clone o repositório: https://github.com/tteuw850/backend_mesaup
+2. Abra o projeto dentro da IDE
+3. Inicialize o Docker Desktop
+4. Execute o comando: docker compose up --build
